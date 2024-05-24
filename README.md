@@ -10,7 +10,7 @@ Javascript, HTML, CSS
 - Cross platform
 
 ## 🔗 Vercel
-[![Feliz Cumple](https://vercel.com/button)](https://dia-madre.vercel.app)
+[![Feliz Cumple](https://vercel.com/button)](https://cumple-blue-two.vercel.app/)
 
 
 ## Author
